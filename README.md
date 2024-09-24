@@ -12,6 +12,8 @@
 
 * Flexbox
 
+### Deploy: https://projeto-alura-1hj88mo1y-wallace-henriques-projects.vercel.app/
+
 ## Feito por:
 
 ### Wallace Henrique Batista Santos
